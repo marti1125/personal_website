@@ -1,0 +1,18 @@
+html, body {
+	background: url(../img/background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: black;
+}
+
+img {
+	padding: 0.3em;
+}
+
+#bio {
+	background-color:rgba(220,220,220,0.5);
+	padding: 1em;
+}
+
